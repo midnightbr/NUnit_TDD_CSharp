@@ -28,6 +28,24 @@ namespace Calculadora.Testes
                 // Testando o resultado do método
                 Assert.That(result, Is.EqualTo(15));
             }
+
+            [Test]
+            public void DeveSubDoisNumeros()
+            {
+                var sut = new CalculadoraSimples();
+                var result = sut.Sub(25, 7);
+
+                Assert.That(result, Is.EqualTo(18));
+            }
+            
+            [Test]
+            public void DeveDivDoisNumeros()
+            {
+                var sut = new CalculadoraSimples();
+                var result = sut.Div(30, 5);
+
+                Assert.That(result, Is.EqualTo(6));
+            }
         }
     }
 }
