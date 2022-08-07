@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5tUWoHY+7LpG6BQrP37xplAXJzVmSUCP1yCdQUrv3J0VojKTkxKGdQwnz6UgmmVROVlcOBfGF93nv2CAHARPSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marco\\Documents\\GitHub\\NUnit_TDD_CSharp\\Demo_Asserts\\Demo_Asserts\\Demo_Asserts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
