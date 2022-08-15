@@ -32,13 +32,14 @@
         {
             Armas = new List<string>()
             {
-                "MA40 Assault Rifle",
+                
                 "BR75 Battle Rifle",
-                "VK78 Commando",
-                "Pulse Carbine",
-                "MK 50 Sidekick",
                 "CQS48 Bulldog",
-                "S7 Sniper"
+                "MA40 Assault Rifle",
+                "MK 50 Sidekick",
+                "Pulse Carbine",
+                "S7 Sniper",
+                "VK78 Commando"
             };
         }
 

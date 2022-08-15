@@ -14,4 +14,9 @@
     <ProjectReference Include="..\Demo_Asserts\Demo_Asserts.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="BooleanosNulos\" />
+    <Folder Include="Colecoes\" />
+  </ItemGroup>
+
 </Project>
